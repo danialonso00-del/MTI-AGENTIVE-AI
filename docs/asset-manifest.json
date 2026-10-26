@@ -1,0 +1,571 @@
+{
+  "generatedAt": "2026-10-05",
+  "policy": "Logos oficiales en copia local; sin hotlinks. Presencia ≠ partnership o integración activa. Sin asset verificable → placa neutral con el nombre (ARPA, STEP/IGES, DXF, PDF).",
+  "assets": [
+    {
+      "brand": "MTI (Group MingoThings)",
+      "localPath": "/brands/mti-logo.png",
+      "sourceUrl": "https://www.mingothings.com/logo-mti.png",
+      "sourcePage": "https://www.mingothings.com/",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logo oficial PNG 2000×2000, dorado sobre transparente",
+      "origin": "Original descargado de la web oficial",
+      "bytes": 69871,
+      "sha256": "198c39b65e2a1dc5ae9e55ba10ebdaae0399bc8852816d0ddf4ddaafcd28be57",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "MTI (Group MingoThings)",
+      "localPath": "/brands/mti-logo-cropped.png",
+      "sourceUrl": "https://www.mingothings.com/logo-mti.png",
+      "sourcePage": "https://www.mingothings.com/",
+      "retrievedAt": "2026-10-05",
+      "variant": "Recorte del margen transparente del original (mismos píxeles, sin reescalar ni teñir)",
+      "origin": "Derivado: solo recorte",
+      "bytes": 56416,
+      "sha256": "4903a80ac0bccaee6e347334ac78b0c424adac96f63adc1499e3c26fb4aa7410",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "MTI (Group MingoThings)",
+      "localPath": "/brands/mti-icon.svg",
+      "sourceUrl": "https://www.mingothings.com/icon.svg",
+      "sourcePage": "https://www.mingothings.com/",
+      "retrievedAt": "2026-10-05",
+      "variant": "Favicon SVG oficial",
+      "origin": "Original",
+      "bytes": 459,
+      "sha256": "a35be083129d8f901839cf49bfbb76728a931c24cfed8ac8a54f6f3472f688db",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Gmail",
+      "localPath": "/brands/gmail.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gmail_icon_(2020).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono 2020 a color",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 419,
+      "sha256": "de129dff939c341be6bb561765719c95362f021db936e88a7455762e6887fb05",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Microsoft Outlook",
+      "localPath": "/brands/outlook.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Outlook_Icon_(2025–present).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Microsoft_Outlook_Icon_(2025%E2%80%93present).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono 2025",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 13116,
+      "sha256": "39b9c39deaadd715813cae246b16d077112de567d81aa2c40414f2afb707cc97",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Odoo",
+      "localPath": "/brands/odoo.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odoo_logo.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Odoo_logo.svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logotipo",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 785,
+      "sha256": "8321f3c13f087695c72f27959799ae18327942ee2f8ab39788e9634bf508d2b0",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Microsoft SharePoint",
+      "localPath": "/brands/sharepoint.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_SharePoint_(2025–present).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Microsoft_Office_SharePoint_(2025%E2%80%93present).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono 2025",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 10703,
+      "sha256": "26e0344c167c47ae853091cc64da45c196410c6f1372b58f0099764b787eb9f1",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Microsoft OneDrive",
+      "localPath": "/brands/onedrive.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_OneDrive_Icon_(2025_-_present).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Microsoft_OneDrive_Icon_(2025_-_present).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono 2025",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 8207,
+      "sha256": "197fb9f9c83c1e75c4887f6a243521a7703095623614f250b040484d481cbcb8",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Google Drive",
+      "localPath": "/brands/google-drive.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Drive_icon_(2020).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Drive_icon_(2020).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono 2020",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 755,
+      "sha256": "3d14c519af7b2252c512d0113759c2ff5ea22ff99bf52de0e4421af5b87c3ad4",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Microsoft Excel",
+      "localPath": "/brands/excel.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2025–present).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono 2025",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 9242,
+      "sha256": "49fe0cb9bc2b916928c80911fccc518458572b57b668360464947add292b977a",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "SAP",
+      "localPath": "/brands/sap.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logotipo 2011",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 1835,
+      "sha256": "50173e125aaa607467d0888d2ca9763742e27a86a07f6697eaab2db6bac35f34",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Microsoft Dynamics 365",
+      "localPath": "/brands/dynamics365.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Dynamics_365_Logo_(2021–present).svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Microsoft_Dynamics_365_Logo_(2021%E2%80%93present).svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logotipo horizontal 2021",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 16285,
+      "sha256": "0c48e560c6346d104c5f0617c3e0c4f5c6e757145486102ab129094258f9e1de",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Sage",
+      "localPath": "/brands/sage.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sage_Group_logo.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sage_Group_logo.svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logotipo",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 4281,
+      "sha256": "153af743acf5da9688098f936dad86438a72d0df5e0eb3e335f4f42743ab0c95",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "HubSpot",
+      "localPath": "/brands/hubspot.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HubSpot_Logo.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HubSpot_Logo.svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logotipo",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 1826,
+      "sha256": "b2219d014a709a5d6d7a55e101ba175225a0e6226c81bc336ce7019fed675304",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Salesforce",
+      "localPath": "/brands/salesforce.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salesforce.com_logo.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Salesforce.com_logo.svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Logotipo",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 8075,
+      "sha256": "b52421bd13f49ae3960601c2d86a1787133066ca5aadf4d1837c11c442b676b2",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "WhatsApp",
+      "localPath": "/brands/whatsapp.svg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/WhatsApp.svg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:WhatsApp.svg",
+      "retrievedAt": "2026-10-05",
+      "variant": "Icono",
+      "origin": "Copia de Wikimedia Commons del logo oficial",
+      "bytes": 2501,
+      "sha256": "dd6a4db2c394ca11aa8ab087369f2f50a12e6f874e49db7b1d5609d0a8fb28ca",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, proporciones y colores originales, sin tintes)"
+    },
+    {
+      "brand": "Plataforma de Contratación del Sector Público",
+      "localPath": "/brands/placsp.svg",
+      "sourceUrl": "https://contrataciondelestado.es/PlaceThemeDynamic/themes/html/dynamicSpots/nuevaLF_25/img/brand-plataforma-contratacion.svg",
+      "sourcePage": "https://contrataciondelestado.es/wps/portal/plataforma",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logotipo SVG de la cabecera del portal",
+      "origin": "Original descargado del portal oficial",
+      "bytes": 23749,
+      "sha256": "37485d1858fe917057af2b154850ad6a203cc0e83f22ed394a19205f7c3cd346",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, sin alteraciones). Indica la fuente de los anuncios; no implica relación institucional."
+    },
+    {
+      "brand": "TED · Tenders Electronic Daily",
+      "localPath": "/brands/ted.png",
+      "sourceUrl": "https://ted.europa.eu/documents/d/ted/ted-logo-blue",
+      "sourcePage": "https://ted.europa.eu/es/",
+      "retrievedAt": "2026-10-06",
+      "variant": "Símbolo TED azul (70×66 px; usar a tamaño pequeño)",
+      "origin": "Original descargado del portal oficial",
+      "bytes": 1601,
+      "sha256": "e77d51819ba1114b96c7fff95ead3ad69076913c4d7b25097e529d0408c83f83",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, sin alteraciones). Indica la fuente de los anuncios; no implica relación institucional."
+    },
+    {
+      "brand": "Unión Europea",
+      "localPath": "/brands/eu-ue.svg",
+      "sourceUrl": "https://ted.europa.eu/o/ted2-theme/images/eu/standard/logo-eu--es.svg",
+      "sourcePage": "https://ted.europa.eu/es/",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logotipo UE (es)",
+      "origin": "Original descargado de ted.europa.eu",
+      "bytes": 12335,
+      "sha256": "171e885d35fd96acb3a47338c1430cc12cfecd643f4f50fb3057a8b2dafe9bf3",
+      "verification": "Revisado visualmente en hoja de contacto (render correcto, sin alteraciones). Indica la fuente de los anuncios; no implica relación institucional."
+    },
+    {
+      "brand": "COPLEGAL",
+      "localPath": "/brands/clients/coplegal.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image156.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 23",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 41868,
+      "sha256": "ab5d65ff8ac5c989a1f2ad54fa5cf5cbc5aba41a096bee08ca535fdb4f5dad59",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "RCFIL",
+      "localPath": "/brands/clients/rcfil.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image29.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 24",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 30104,
+      "sha256": "997a8d1ff8e82cd37f14f85ca4a5a601ec591a0521a6ab045aca1594d9f28971",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "FERRI",
+      "localPath": "/brands/clients/ferri.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image158.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 25",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 15440,
+      "sha256": "27516bdf292dadf27a10313972a122b5240391f6e98d04929aa16d2e75a97bb9",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "REGENASA",
+      "localPath": "/brands/clients/regenasa.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image160.png",
+      "sourcePage": "Presentación v.02 · diapositiva 26",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 31540,
+      "sha256": "e0d89d0d3c256ce75238e5ad7446bba4f1eb1af165c0c613c8969b5a31fde57e",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "GALMETEC",
+      "localPath": "/brands/clients/galmetec.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image163.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 27",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 45642,
+      "sha256": "098517ad970ad8721562a94058c15ccca21627a3d6cb43b2f2297abc3f09523b",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "RADIOVIGO",
+      "localPath": "/brands/clients/radiovigo.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image31.png",
+      "sourcePage": "Presentación v.02 · diapositiva 28",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 35485,
+      "sha256": "40c11c7db9f489a2c4f065e938254d355bdad7c6dbf62f7ac788dcae663b9a17",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "PROMEGA",
+      "localPath": "/brands/clients/promega.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image168.png",
+      "sourcePage": "Presentación v.02 · diapositiva 29",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 30430,
+      "sha256": "1f81263a8b0466ccefab7a4f85a35c509284472bca9bac4b9a6878ed6354bde2",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "UCALSA",
+      "localPath": "/brands/clients/ucalsa.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image169.png",
+      "sourcePage": "Presentación v.02 · diapositiva 30",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 21495,
+      "sha256": "a8296ad7d4fdb4b3d1e93216f72f91cff8ad3a97456215d1e0eed0dbf97a7305",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "GALPI",
+      "localPath": "/brands/clients/galpi.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image172.png",
+      "sourcePage": "Presentación v.02 · diapositiva 31",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 4427,
+      "sha256": "ff3e03bf23272c67534f48f486b5ac601cfba55716dfd8cea52089d9d72f4747",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "SERGAS",
+      "localPath": "/brands/clients/sergas.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image33.png",
+      "sourcePage": "Presentación v.02 · diapositiva 32",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 37758,
+      "sha256": "4357e9571b718daec9672b411f91743d9a21871b87c56df73b6b7c2253759ce5",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "FRIOTEIS",
+      "localPath": "/brands/clients/frioteis.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image177.png",
+      "sourcePage": "Presentación v.02 · diapositiva 33",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 5092,
+      "sha256": "4f1fb75fe4fe27033a47f51859307e86155a8adde43f8611c9776eb08e3a0db1",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "ASPOL",
+      "localPath": "/brands/clients/aspol.png",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image43.png",
+      "sourcePage": "Presentación v.02 · diapositiva 34",
+      "retrievedAt": "2026-10-06",
+      "variant": "Logo de cliente (referencia del caso)",
+      "origin": "Extraído de la presentación corporativa de MTI; reescalado a 600 px sin otras alteraciones",
+      "bytes": 22034,
+      "sha256": "83794ad3c7a2f8c8288339e89e542eb5390d5a27664125f5b080983213b8a7fb",
+      "verification": "Revisado visualmente; uso solo como referencia del caso, no implica respaldo de datos ficticios"
+    },
+    {
+      "brand": "Fotografía · mecanizado",
+      "localPath": "/cases/mecanizado.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image161.png",
+      "sourcePage": "Presentación v.02 · diapositiva 27",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 105517,
+      "sha256": "483b90a2dea435d738ef9cc96c3e8a557ce62c9dd8542d20e415bfc19b8c310a",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · radio",
+      "localPath": "/cases/radio.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image164.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 28",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 42110,
+      "sha256": "e77021e9e7ec543516ebbfc68d9d605f11fcab2a11888c295833e0a34bad2328",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · hospital",
+      "localPath": "/cases/hospital.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image173.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 32",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 40394,
+      "sha256": "cfc989f05e04fd26e345ca130e483c5442c8ff49fe0df939b5af1538969ca271",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · almacen-frio",
+      "localPath": "/cases/almacen-frio.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image175.png",
+      "sourcePage": "Presentación v.02 · diapositiva 33",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 163050,
+      "sha256": "cc570a793d4243ec2ddba4a994ad67e7d3416b71eb8288f7efec39a5fb80f844",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · camiones",
+      "localPath": "/cases/camiones.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image178.png",
+      "sourcePage": "Presentación v.02 · diapositiva 34",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 95080,
+      "sha256": "5651c8d0647bf84d420a2141c43879e83bd0348f92d2decb96b353f753d7d9c9",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · puerto",
+      "localPath": "/cases/puerto.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image180.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 35",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 335764,
+      "sha256": "f878c7bdbae0b69edf548db730831fd35b12f303993f07002e2855555a54a51d",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · naval",
+      "localPath": "/cases/naval.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image182.png",
+      "sourcePage": "Presentación v.02 · diapositiva 36",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 108989,
+      "sha256": "cdc4c5c657fc35cb7d1aa47c3afdcf36e338ce5c1b5d9f921c0478c1db883af9",
+      "verification": "Revisada visualmente"
+    },
+    {
+      "brand": "Fotografía · precision",
+      "localPath": "/cases/precision.jpg",
+      "sourceUrl": "MTi_Group_IA_Agentiva_v.02.pptx · ppt/media/image181.jpeg",
+      "sourcePage": "Presentación v.02 · diapositiva 36",
+      "retrievedAt": "2026-10-06",
+      "variant": "Imagen de cabecera del caso",
+      "origin": "Extraída de la presentación corporativa de MTI; JPEG 80 %, máx. 1400 px",
+      "bytes": 72833,
+      "sha256": "ff6c446f8381c53f9be37bb4ab314d8e55b023d2134727479e88eb3fb6b696e1",
+      "verification": "Revisada visualmente"
+    }
+  ],
+  "neutralPlates": [
+    {
+      "name": "ARPA",
+      "reason": "Sin asset verificable; contrato pendiente"
+    },
+    {
+      "name": "STEP / IGES",
+      "reason": "Formato, no marca"
+    },
+    {
+      "name": "DXF",
+      "reason": "Formato, no marca"
+    },
+    {
+      "name": "PDF",
+      "reason": "Formato, no marca"
+    }
+  ],
+  "demoAssets": [
+    {
+      "file": "/demo-assets/BR-210_revA.dxf",
+      "bytes": 1112,
+      "sha256": "7108e0dc3663a3aacbf611fb243aa413da630a26351a6eec208c5fa29d873007",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "DXF auditado con ezdxf: 0 errores"
+    },
+    {
+      "file": "/demo-assets/BR-210_revA.pdf",
+      "bytes": 139639,
+      "sha256": "f2b6bb4310640f6d93ca78f32ad746e00a5c90afcc1558c296ce763018500f55",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "PDF de 1 página, texto extraíble"
+    },
+    {
+      "file": "/demo-assets/PL-040_revA.dxf",
+      "bytes": 1745,
+      "sha256": "2dcdcb8168a6e5b6ecb4f49704170435228637e6423c5f11d454cd6ee6e9c44e",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "DXF auditado con ezdxf: 0 errores"
+    },
+    {
+      "file": "/demo-assets/PL-040_revA.pdf",
+      "bytes": 131305,
+      "sha256": "2e0e1d7227d09bc348c515b399d8e7c5bd40a63589ce8c6067877961dc02b906",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "PDF de 1 página, texto extraíble"
+    },
+    {
+      "file": "/demo-assets/Requisitos_RFQ-2026-0042.pdf",
+      "bytes": 101268,
+      "sha256": "dc77082ab3a62d7347a9e5dc41a5dad74bc9edccf7195da706705c80cc004b59",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "PDF de 1 página, texto extraíble"
+    },
+    {
+      "file": "/demo-assets/SP-118_revB.dxf",
+      "bytes": 2319,
+      "sha256": "0536a368a5e7e5fa01b1d417179fa51201628e8e722237fc6327fd194ad385bd",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "DXF auditado con ezdxf: 0 errores"
+    },
+    {
+      "file": "/demo-assets/SP-118_revB.pdf",
+      "bytes": 138774,
+      "sha256": "23da390b21551d4d84f6627c3ef32d06170dc0fa1f26663a14a401ab370fe3f9",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "PDF de 1 página, texto extraíble"
+    },
+    {
+      "file": "/demo-assets/SP-118_revC.dxf",
+      "bytes": 2455,
+      "sha256": "56c72082591d0072ea990f50f1f5c91e9aea07e360ae8d99b9d4aa435b1d234b",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "DXF auditado con ezdxf: 0 errores"
+    },
+    {
+      "file": "/demo-assets/SP-118_revC.pdf",
+      "bytes": 139811,
+      "sha256": "edda1e2c5b696e577d0aff46b887be26a03b27439a9878e08a62541189f85802",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "PDF de 1 página, texto extraíble"
+    },
+    {
+      "file": "/demo-assets/SP-126_revA.dxf",
+      "bytes": 2321,
+      "sha256": "fd21b2addffc56615ffb8cd7bd400f865073022e29cd87fab73ad0adffb8a7ad",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "DXF auditado con ezdxf: 0 errores"
+    },
+    {
+      "file": "/demo-assets/SP-126_revA.pdf",
+      "bytes": 132582,
+      "sha256": "b3d5c6c655d3c9850968aad35686df6cc3fba16f43b03059fc9a78b1d2e75102",
+      "origin": "Generado por scripts/generate-assets.mjs (datos ficticios)",
+      "validation": "PDF de 1 página, texto extraíble"
+    }
+  ]
+}

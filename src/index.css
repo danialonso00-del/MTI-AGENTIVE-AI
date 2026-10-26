@@ -1,0 +1,158 @@
+@import 'tailwindcss';
+
+/* Tokens verificados en el CSS público de mingothings.com (05/10/2026). */
+:root {
+  --gold: #e6a817;
+  --gold-light: #f0bc3d;
+  --gold-dark: #c8921a;
+  --gold-muted: #e6a8171f;
+  --navy: #0a0f1e;
+  --navy-light: #111827;
+  --navy-mid: #1a2438;
+  --navy-border: #1e293b;
+  --text-muted: #94a3b8;
+  --text-secondary: #cbd5e1;
+  /* Superficies de producto (propuesta de este demostrador) */
+  --canvas: #f3f5f9;
+  --surface: #ffffff;
+  --ink: #0b1222;
+  --ink-2: #334155;
+  --ink-3: #64748b;
+  --line: #e3e8ef;
+  --line-strong: #cfd7e3;
+  --ok: #15803d;
+  --ok-bg: #e8f6ee;
+  --warn: #b45309;
+  --warn-bg: #fdf3e2;
+  --err: #b91c1c;
+  --err-bg: #fdecec;
+  --info: #1d4ed8;
+  --info-bg: #e9effd;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+@theme {
+  --font-sans: 'Inter Variable', Inter, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --color-gold: #e6a817;
+  --color-gold-light: #f0bc3d;
+  --color-gold-dark: #c8921a;
+  --color-navy: #0a0f1e;
+  --color-navy-light: #111827;
+  --color-navy-mid: #1a2438;
+  --color-navy-border: #1e293b;
+  --color-canvas: #f3f5f9;
+  --color-ink: #0b1222;
+  --color-ink-2: #334155;
+  --color-ink-3: #64748b;
+  --color-line: #e3e8ef;
+  --color-line-strong: #cfd7e3;
+  --color-ok: #15803d;
+  --color-ok-bg: #e8f6ee;
+  --color-warn: #b45309;
+  --color-warn-bg: #fdf3e2;
+  --color-err: #b91c1c;
+  --color-err-bg: #fdecec;
+  --color-info: #1d4ed8;
+  --color-info-bg: #e9effd;
+  --color-muted: #94a3b8;
+  --color-secondary: #cbd5e1;
+  --radius-card: 14px;
+  --shadow-card: 0 1px 2px rgb(10 15 30 / 0.05), 0 4px 16px -6px rgb(10 15 30 / 0.08);
+  --shadow-pop: 0 12px 40px -12px rgb(10 15 30 / 0.35), 0 2px 6px rgb(10 15 30 / 0.08);
+  --animate-pulse-gold: pulse-gold 1.6s var(--ease-in-out) infinite;
+  --animate-dash: dash 1.2s linear infinite;
+}
+
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 0 0 rgb(230 168 23 / 0.55); }
+  50% { box-shadow: 0 0 0 8px rgb(230 168 23 / 0); }
+}
+@keyframes dash {
+  to { stroke-dashoffset: -24; }
+}
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-feature-settings: 'cv11', 'ss01', 'tnum' 0;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.tabular { font-variant-numeric: tabular-nums; }
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+::selection { background: rgb(230 168 23 / 0.3); }
+
+/* Fondo técnico: retícula tenue + luz dorada ambiental */
+.tech-grid {
+  background-color: var(--navy);
+  background-image:
+    radial-gradient(900px 420px at 18% -10%, rgb(230 168 23 / 0.13), transparent 60%),
+    radial-gradient(700px 380px at 110% 120%, rgb(56 104 200 / 0.14), transparent 60%),
+    linear-gradient(rgb(148 163 184 / 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(148 163 184 / 0.07) 1px, transparent 1px);
+  background-size: auto, auto, 32px 32px, 32px 32px;
+}
+.tech-grid-light {
+  background-image:
+    linear-gradient(rgb(15 23 42 / 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(15 23 42 / 0.045) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #eef1f6 0px, #f7f9fc 160px, #eef1f6 320px);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s linear infinite;
+}
+
+.scroll-thin { scrollbar-width: thin; scrollbar-color: #cbd5e1 transparent; }
+.scroll-dark { scrollbar-width: thin; scrollbar-color: #334155 transparent; }
+
+/* Resaltado de evidencias */
+mark.evidence {
+  background: rgb(230 168 23 / 0.28);
+  color: inherit;
+  border-radius: 4px;
+  padding: 0 2px;
+  box-shadow: 0 0 0 1px rgb(200 146 26 / 0.45);
+}
+mark.evidence-soft {
+  background: rgb(230 168 23 / 0.12);
+  color: inherit;
+  border-radius: 4px;
+  padding: 0 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+html[data-motion='reduced'] *, html[data-motion='reduced'] *::before, html[data-motion='reduced'] *::after {
+  animation-duration: 0.001ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.001ms !important;
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: #fff; }
+}
